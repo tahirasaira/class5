@@ -1,0 +1,48 @@
+.c1{
+    background-color: rgb(241, 183, 107);
+    text-align: center;
+    color: black;
+}
+h3{
+    background-color: rgb(235, 211, 176);
+}
+.c2{
+    background-color: aquamarine;
+}
+.c3{
+    color:black;
+}
+
+body{
+    background: #f5f4f4;
+}
+.carousel-item{
+    height: 400px;
+    width: 500px;
+
+}
+.carousel-item img{
+    height: 100%;
+    width:80%;
+    display:block;
+    text-align: center;
+}
+.m1{
+    height: 200px;
+    width: 100%;
+}
+.r1{
+    color:rgb(76, 0, 255);
+    background-color: rgb(147, 196, 238);
+
+}  
+.home1{
+    color:aliceblue;
+
+}  
+.l1{
+    color:blueviolet;
+}   
+.s1{
+    background-color: brown;
+}
